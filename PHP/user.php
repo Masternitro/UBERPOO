@@ -4,7 +4,7 @@ class User extends Account {
 
     public function _construct($name,
 
-    $document, $email, $password){
+    $document, $email, $password) {
 
         parent::__construct($name,
 

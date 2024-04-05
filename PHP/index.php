@@ -13,5 +13,5 @@ Villa", "PÑLOI3256", "rolando@platzi.pe", "1255633"),
 $uberx->printDatauberX();
 $user = new User ("Mario villa", "SDF125369",
 "mario@platzi.pe", "4523699");
-Suser->printDatauser();
+user->printDatauser();
 ?>
